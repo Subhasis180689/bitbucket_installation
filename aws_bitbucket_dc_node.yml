@@ -35,7 +35,7 @@
     - role: nfs_mount
     - role: product_common
     - role: product_install
-    - role: database_init
+#    - role: database_init
     - role: restore_backups
     - role: bitbucket_config
     - role: product_startup
